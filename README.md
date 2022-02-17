@@ -13,4 +13,8 @@ Following the above analysis, we looked at the time of year and how that correla
 ![Month/Result of Theater Campaigns](Picture2.png)
 
 As far as fundraising goes, here are two charts that outline the fundraising goals and actual pledged ranges for successful theater campaigns, presented with box and whisker plots:
+![Fundraising Goals](Picture5.png) ![Actual $ Pledged](Picture6.png)
 
+Based on these graphs, it seems that Louise's goal of raising $10,000 is somewhat unrealistic, and falls outside the graph. If we look at unsuccessful campaigns, their mean goal was $10,554, which is not a great sign.
+
+Although the category that Louise has chosen will likely be profitable, I would recommend that she launch her campaign in May, and instead of a $10,000 goal, look for something in the range of $1,500 - $5,000.
