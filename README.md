@@ -13,7 +13,7 @@ Following the above analysis, we looked at the time of year and how that correla
 ![Month/Result of Theater Campaigns](Picture2.png)
 
 As far as fundraising goes, looking at a short statistical analysis of the ranges within which successful campaigns operated (as far as fundraising goals and actual pledged amounts), these statistics are outlined below (successful vs failed):
-![Successful vs Failed Fundraising Goals and Pledged Amounts](Picture6.png)
+![Successful vs Failed Fundraising Goals and Pledged Amounts](Picture7.png)
 
 Based on these graphs, it seems that Louise's goal of raising $10,000 is somewhat unrealistic, and falls outside the graph. If we look at unsuccessful campaigns, their mean goal was $10,554, which is not a great sign.
 
